@@ -41,7 +41,7 @@ Don't forget to pass a `ref` to the component.
 If your are using **SCSS** (and you should):
 
 ```scss
-@include '../path/to/node-modules/react-joyride/lib/styles/react-joyride'
+@import '../path/to/node_modules/react-joyride/lib/styles/react-joyride'
 
 ```
 
